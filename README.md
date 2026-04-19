@@ -19,8 +19,8 @@
 - 🛵 Trip starts with live tracking
 - 💰 Fare is calculated after ride completion
 - 📜 Trip details are stored for future reference
-#  Built By
-- 👨‍💻 Kuldeep Bahuguna  
+#  👨‍💻 Built By
+-  Kuldeep Bahuguna  
 B.Tech CSE| Graphic Era Hill University
 
 
